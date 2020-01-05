@@ -1,0 +1,3 @@
+[submodule "resources/font-souls"]
+	path = resources/font-souls
+	url = git@github.com:AssisrMatheus/font-souls.git
